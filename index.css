@@ -1,0 +1,35 @@
+body {
+    background-color: #1c1c28;
+    color: white;
+    font-family: 'Arial', sans-serif;
+}
+
+#content {
+    margin-left: 250px;
+    padding: 20px;
+}
+
+.navbar {
+    background-color: #1f1f2e;
+    padding: 15px;
+    border-bottom: 1px solid #444;
+}
+
+.card {
+    background-color: #2e2e3e;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.card .card-title {
+    font-size: 24px;
+    color: #fff;
+}
+
+.card .card-text {
+    color: #c1c1d1;
+}
+
+.chart-container {
+    margin-bottom: 30px;
+}
